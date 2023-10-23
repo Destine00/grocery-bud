@@ -310,5 +310,5 @@ form h4 {
 }
 
 .Toastify__toast {
-  text-transform: capitalize;
+  text-transform: uppercase;
 }
